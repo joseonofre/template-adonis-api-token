@@ -5,11 +5,11 @@ https://api.postman.com/collections/1002806-0758bfdc-8ca3-4bdc-877c-c6491b7212af
 https://template-adonis-api-token.up.railway.app
 
 #### Open Routes
-/api/auth/login
-/api/auth/register
-/api/auth/logout
+/api/auth/login  
+/api/auth/register  
+/api/auth/logout  
 #### Routes with guard
-/api/auth/logout
+/api/auth/logout  
 /api/me
 
 ---
